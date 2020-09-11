@@ -1,0 +1,5 @@
+main : test.main.Main
+name : basic
+version : 1.0.0
+author : "Gong3y"
+description : "처음 만들어 보는 플러그인 입니다."

@@ -1,0 +1,7 @@
+name: basic4
+main: main.App
+version: 1.0
+commands: 
+  hello: 
+    description: "인사하는 명령어 입니다."
+  

@@ -1,0 +1,6 @@
+name: basic3
+version: 1.0
+main: test.Main
+commands:
+  t:
+    description: "About Plugin"
